@@ -1,0 +1,51 @@
+/* Type */
+
+h1 {
+	font-size: 2em;
+    transform: skewY(20deg);
+    position: absolute;
+	transform: scaleX(1) skew(10deg, 10deg);
+	color: white;
+	text-shadow: 20px 10px red;
+	left: 20px;
+}
+h3 {
+	font-size: 2em;
+    transform: skewY(20deg);
+    position: absolute;
+	transform: scaleX(-1) skew(-10deg, -10deg);
+	color: white;
+	top: 1.5em;
+	text-shadow: 10px 10px red;
+	left: 1em;
+}
+h2 {
+	font-size:40pt;
+	color: white;
+	transform: scaleY(5);
+	position: absolute;
+	opacity: 0.8;
+	top: 20em;
+
+}
+
+body {
+	background-color: #fd8863;
+	color: #dc5f37;
+	font-family: 'Carme', sans-serif;
+	line-height: 0.5;
+    font-size: 7em;
+    text-shadow: 10px 10px coral;
+}
+.new-color {
+	color: #6383fd;
+}
+.other-font {
+	font-family: serif;
+}
+.name {
+	color: #00bcd4;
+	text-shadow: 5px 5px #f44336;
+	transform: scaleY(5);
+	
+}
